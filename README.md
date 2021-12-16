@@ -6,7 +6,7 @@
     <tr>
 	    <td width="33.33%"></td>
 	    <td width="33.33%">
-		    <img src="https://github.com/npsantini/camerafly/blob/main/camerafly-logo-v2.jpg" width="100%" alt="camerafly logo">
+		    <img src="https://github.com/npsantini/Camerafly-ESP32-CAM-Camera-Swarm-System/blob/main/camerafly-logo-v2.jpg" width="100%" alt="camerafly logo">
 	    </td>
 	    <td width="33.33%"></td>
     </tr>
@@ -158,11 +158,11 @@ but you could name it whatever you like. Having all of the modules with the same
 
 <table>
     <tr>
-        <td width="20%"><img src="https://github.com/npsantini/camerafly/blob/main/readme/blynk-2.JPG" alt=""></td>
-        <td width="20%"><img src="https://github.com/npsantini/camerafly/blob/main/readme/blynk-4.JPG" alt=""></td>
-        <td width="20%"><img src="https://github.com/npsantini/camerafly/blob/main/readme/blynk-5.JPG" alt=""></td>
-        <td width="20%"><img src="https://github.com/npsantini/camerafly/blob/main/readme/blynk-6.JPG" alt=""></td>
-        <td width="20%"><img src="https://github.com/npsantini/camerafly/blob/main/readme/blynk-7.JPG" alt=""></td>
+        <td width="20%"><img src="https://github.com/npsantini/Camerafly-ESP32-CAM-Camera-Swarm-System/blob/main/readme/blynk-2.JPG" alt=""></td>
+        <td width="20%"><img src="https://github.com/npsantini/Camerafly-ESP32-CAM-Camera-Swarm-System/blob/main/readme/blynk-4.JPG" alt=""></td>
+        <td width="20%"><img src="https://github.com/npsantini/Camerafly-ESP32-CAM-Camera-Swarm-System/blob/main/readme/blynk-5.JPG" alt=""></td>
+        <td width="20%"><img src="https://github.com/npsantini/Camerafly-ESP32-CAM-Camera-Swarm-System/blob/main/readme/blynk-6.JPG" alt=""></td>
+        <td width="20%"><img src="https://github.com/npsantini/Camerafly-ESP32-CAM-Camera-Swarm-System/blob/main/readme/blynk-7.JPG" alt=""></td>
     </tr>
     <tr>
 	    <td valign="top" width="20%">
@@ -207,7 +207,7 @@ char auth[] = "MODULE 4 AUTH TOKEN HERE"; //4
 <p>While we chose to use these specific components to accomplish what we needed to accomplish, you can choose what you you need and can remove the rest. Just make sure to remove the code for components that you aren't using.</p>
 <table>
 	<tr>
-		<td width="40%"><img src="https://github.com/npsantini/camerafly/blob/main/readme/blynk-8.JPG" alt=""></td>
+		<td width="40%"><img src="https://github.com/npsantini/Camerafly-ESP32-CAM-Camera-Swarm-System/blob/main/readme/blynk-8.JPG" alt=""></td>
 		<td width="60%">
 	
 - Device Selector
@@ -319,7 +319,7 @@ $logins = array('admin' => 'password','user' => 'password');
 <hr>
 <table>
 	<tr>
-		<td width="25%"><img src="https://github.com/npsantini/camerafly/blob/main/readme/pcb.jpg" alt=""></td>
+		<td width="25%"><img src="https://github.com/npsantini/Camerafly-ESP32-CAM-Camera-Swarm-System/blob/main/readme/pcb.jpg" alt=""></td>
 		<td width="75%">
 			<p>The PCB subsystem was created to connect all components used for each module together so they are compact, and set up and transport easily. The PCB reduces the need for wires allowing the casing to be smaller. The PCB has dimensions of 50mm X 55mm. There is a switch in the circuit that will turn power off to the ESP32-CAM saving power.</p>
 			<p>The routing on the board connects the output of the battery charger to the battery and then to the boost converter. This will increase the voltage from ~3.7V, the voltage of the battery, to 5V, a useful voltage for the ESP32-CAM. This circuit is also ran through a switch that allows the unit to be put in standby mode to save charge. Another switch is connected to two pins of the ESP32-CAM so they can be shorted out to place the camera in programming mode. The 2-pin header is to provide access to the camera for programming purposes.</p>
@@ -356,7 +356,7 @@ It's highly recommended that you use these PCB schematics as a starting point fo
 		</td>
 	</tr>
 	<tr>
-		<td width="50%"><img src="https://github.com/npsantini/camerafly/blob/main/readme/housing.jpg" alt=""></td>
+		<td width="50%"><img src="https://github.com/npsantini/Camerafly-ESP32-CAM-Camera-Swarm-System/blob/main/readme/housing.jpg" alt=""></td>
 	<tr>
 </table>
 
