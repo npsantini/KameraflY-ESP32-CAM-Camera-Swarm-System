@@ -1,12 +1,12 @@
 <div id="top"></div>
 
-# camerafly
+# KameraflY
 
 <table width="100%">
     <tr>
 	    <td width="33.33%"></td>
 	    <td width="33.33%">
-		    <img src="https://github.com/npsantini/Camerafly-ESP32-CAM-Camera-Swarm-System/blob/main/camerafly-logo-v2.jpg" width="100%" alt="camerafly logo">
+		    <img src="https://github.com/npsantini/Camerafly-ESP32-CAM-Camera-Swarm-System/blob/main/KameraflYlogo.png" width="100%" alt="camerafly logo">
 	    </td>
 	    <td width="33.33%"></td>
     </tr>
